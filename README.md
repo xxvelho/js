@@ -1,2 +1,1 @@
-# js
 aprendendo java script
